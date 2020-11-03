@@ -1,0 +1,12 @@
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+### VisualStudioCode ###
+.vscode/
+.vs/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
